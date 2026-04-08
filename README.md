@@ -119,9 +119,7 @@ PPT_Analysis/
 │   ├── slides/slide_page_1.jpg        # Example input slide
 │   └── results/                       # Visualization outputs
 │       ├── correlation_heatmap.png
-│       ├── pearson_correlation.png
-│       ├── event_study_car.png
-│       └── event_study_variant.png
+│       └── pearson_correlation.png
 │
 ├── data/                              # Local data directory (gitignored)
 ├── .env.example                       # API key template
