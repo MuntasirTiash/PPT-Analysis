@@ -81,15 +81,6 @@ We built a pipeline to automatically scan 500+ corporate presentations (14,000+ 
 
 *Heatmap showing the relationship between visual ESG signals and financial variables across the full dataset.*
 
-### Event Study Results
-![Event study](examples/results/event_study_car.png)
-
-*Event study plot showing Cumulative Abnormal Returns (CAR) around earnings call dates.*
-
-![Event study variant](examples/results/event_study_variant.png)
-
-*Alternative event window specification for robustness testing.*
-
 ---
 
 ## Technical Stack
